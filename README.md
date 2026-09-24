@@ -191,4 +191,4 @@ Esto permite mantener evidencia de los cambios realizados y conservar un histori
 
 ## Autores
 
-Proyecto académico desarrollado por el CIPA para la asignatura de Ingeniería de Software.
+Proyecto académico desarrollado por el CIPA " Real de Cartagena " para la asignatura de Ingeniería de Software.
